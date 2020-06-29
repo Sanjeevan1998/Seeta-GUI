@@ -1,0 +1,11 @@
+{
+  "name": "seeta_gui",
+  "version": "1.0.0",
+  "description": "A simple GUI for the seeta functionalities",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
